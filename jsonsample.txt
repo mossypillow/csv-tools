@@ -1,0 +1,177 @@
+[
+ {
+   "timestamp": "2017-11-27 05:05:00",
+   "user_info": "Fancie",
+   "event_name": "Automated",
+   "num_of_events": 413,
+   "event_id": "ad2024dc-b25e-4b2c-85d6-447b02fd2f6a"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:01",
+   "user_info": "Mellicent",
+   "event_name": "Segment",
+   "num_of_events": 204,
+   "event_id": "2007bf33-f274-43dd-848c-4273994f901a"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:01",
+   "user_info": "Ingunna",
+   "event_name": "Automated",
+   "num_of_events": 155,
+   "event_id": "10a2758f-8b72-4ad8-9747-064a9fc9d078"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:01",
+   "user_info": "Bob",
+   "event_name": "Segment",
+   "num_of_events": 376,
+   "event_id": "9e0314f8-6b38-4fb6-8fdb-4ab15240f636"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:02",
+   "user_info": "Niels",
+   "event_name": "Unicast",
+   "num_of_events": 718,
+   "event_id": "0f1845fa-3c14-458d-be08-5d57fdf4967f"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:02",
+   "user_info": "Hilton",
+   "event_name": "Segment",
+   "num_of_events": 339,
+   "event_id": "e6c49341-2b52-48f8-8b48-6bbe6ac6fbe3"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:02",
+   "user_info": "Carroll",
+   "event_name": "Unicast",
+   "num_of_events": 871,
+   "event_id": "85315d73-a34b-479d-bed5-e2236abe3817"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:03",
+   "user_info": "Catina",
+   "event_name": "Unicast",
+   "num_of_events": 380,
+   "event_id": "6b73432d-5790-4195-bbdd-f9072671b9f2"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:03",
+   "user_info": "Darsie",
+   "event_name": "Tag",
+   "num_of_events": 14,
+   "event_id": "4f17ad86-4aa7-4a47-be08-9b01300503b6"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:03",
+   "user_info": "Zea",
+   "event_name": "Tag",
+   "num_of_events": 761,
+   "event_id": "37cca320-775a-46de-815e-d86264af3c99"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:04",
+   "user_info": "Glenda",
+   "event_name": "Segment",
+   "num_of_events": 562,
+   "event_id": "fd6d95cf-d7dd-4525-b09c-d62b1e3e7481"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:04",
+   "user_info": "Cathy",
+   "event_name": "Broadcast",
+   "num_of_events": 156,
+   "event_id": "190ccda9-f572-4e77-8b6e-05e48c650239"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:04",
+   "user_info": "Malcolm",
+   "event_name": "Tag",
+   "num_of_events": 398,
+   "event_id": "3f8a45bf-6e2b-4c99-884a-b93f5723b638"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:05",
+   "user_info": "Artemis",
+   "event_name": "Segment",
+   "num_of_events": 137,
+   "event_id": "47172454-e385-4722-8a20-31e6738aa810"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:05",
+   "user_info": "Derk",
+   "event_name": "Segment",
+   "num_of_events": 784,
+   "event_id": "e0617ea0-15e4-4e97-bc4b-2eddb9dfa795"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:05",
+   "user_info": "Early",
+   "event_name": "Tag",
+   "num_of_events": 470,
+   "event_id": "26dc0aa7-6700-4028-9fd0-d5c2ba059397"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:06",
+   "user_info": "Anatol",
+   "event_name": "Automated",
+   "num_of_events": 766,
+   "event_id": "2e1232da-5354-4ae7-816b-647ecf3af8bc"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:06",
+   "user_info": "Kassandra",
+   "event_name": "Tag",
+   "num_of_events": 62,
+   "event_id": "691c347b-c1fe-43fb-83b0-78f5036c11ae"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:06",
+   "user_info": "Kenna",
+   "event_name": "Automated",
+   "num_of_events": 528,
+   "event_id": "27f0a2ec-4caf-4ad2-91c4-d901dc40da37"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:07",
+   "user_info": "Tristam",
+   "event_name": "Automated",
+   "num_of_events": 491,
+   "event_id": "f5cff618-6fa6-4ee6-9287-e27e80e74698"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:07",
+   "user_info": "Ulrica",
+   "event_name": "Segment",
+   "num_of_events": 769,
+   "event_id": "3f4bb75e-c35e-4c0e-a332-a035f00aa582"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:07",
+   "user_info": "Jasun",
+   "event_name": "Segment",
+   "num_of_events": 761,
+   "event_id": "244cf06a-b009-4237-9867-f7ff9c246df0"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:08",
+   "user_info": "Lowe",
+   "event_name": "Broadcast",
+   "num_of_events": 98,
+   "event_id": "36b8c4d2-c2e4-40b6-a9d3-a1cf418b4f22"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:08",
+   "user_info": "Mendy",
+   "event_name": "Broadcast",
+   "num_of_events": 243,
+   "event_id": "e6d76f71-3d1b-4a4d-bcb0-4ea20ca94faf"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:08",
+   "user_info": "Eleanora",
+   "event_name": "Segment",
+   "num_of_events": 796,
+   "event_id": "570c7887-1c27-4855-9e66-11722141159d"
+ }
+]
