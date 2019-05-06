@@ -1,7 +1,7 @@
 #!/bin/python3
 from requests import get
-import csv
-import json
+from csv import DictWriter
+from json import loads
 from datetime import datetime
 
 # Timestamps report_filename
@@ -19,11 +19,11 @@ report_filename = "ReportExport-"+timestamp+".csv"
 # Requests data and ingest
 
 raw_request = get('https://jsonplaceholder.typicode.com/todos/1')
-export_parsed = json.loads(raw_request.text)
+export_parsed = loads(raw_request.text)
 
 # Write export_parsed to CSV file
 
 with open(report_filename, 'w', newline='') as file:
-    itrobj = csv.DictWriter(file, export_parsed.keys())
+    itrobj = DictWriter(file, export_parsed.keys())
     itrobj.writerow(dict((kn, kn) for kn in export_parsed.keys()))
     itrobj.writerow(export_parsed)
